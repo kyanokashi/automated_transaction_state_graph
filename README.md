@@ -1,6 +1,6 @@
 # Automated Transaction State Graph
 
-This will serve as a prototype for the automated transaction state graph.
+This is current prototype for the automated transaction state graph.
 
 This data structure will serve as the backbone of the automated transaction sovereign rollup I'm currently writing about [here](https://respected-atlasaurus-022.notion.site/Automated-Transaction-DeFi-Sovereign-Rollup-1a5bd21906d34f349d468ce64a7bf788).
 
