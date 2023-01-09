@@ -1,4 +1,4 @@
-# automated_transaction_state_graph
+# Automated Transaction State Graph
 
 This will serve as a prototype for the automated transaction state graph.
 
